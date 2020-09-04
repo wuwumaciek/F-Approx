@@ -14,3 +14,7 @@ It's recomended to check radius of convergence on your own in [Desmos](https://w
 # ToDo
 - Repairing exponential and logarithmic functions
 - Calculating radius of convergence in app with a certain accuracy 
+
+# Requirements
+- Python 3.8
+    - [SymPy 1.6.2](https://pypi.org/project/sympy/)
