@@ -20,7 +20,7 @@ It's recomended to check radius of convergence on your own in [Desmos](https://w
 
 ## ToDo
 - Calculating radius of convergence in app with a certain accuracy 
-- Integration with [webpage](https://ziobro.ml/) and DEsmos API
+- Integration with [webpage](https://ziobro.ml/) and Desmos API
 
 ## Requirements
 - Python 3.8
