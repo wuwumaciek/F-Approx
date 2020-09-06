@@ -13,7 +13,7 @@ While using app remember of SymPy functions notation:
 - Instead of a^b use a**b
 - For mathematical constant instaed of using e or π use their approximated value
 - Always use functions of x
-- Remember not to approcimate functions around the point that value of function doesn't exist
+- Remember not to approximate functions around the point that value of function doesn't exist
 
 ## Radius of Convergence
 It's recomended to check radius of convergence on your own in [Desmos](https://www.desmos.com/calculator)
@@ -23,5 +23,5 @@ It's recomended to check radius of convergence on your own in [Desmos](https://w
 - Integration with [webpage](https://ziobro.ml/) and Desmos API
 
 ## Requirements
-- Python 3.8
+- [Python 3.8](https://www.python.org/)
     - [SymPy 1.6.2](https://pypi.org/project/sympy/)
