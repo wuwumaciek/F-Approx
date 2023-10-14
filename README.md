@@ -3,7 +3,7 @@
 </div>
 
 # F-Aprrox
-An application to aprroximate functions with polynomial using Taylor's series
+A script writen to aprroximate functions with polynomial using Taylor's series
 
 ## Usage
 Simply enter function of x, then the approximation accuracy you want to get. The bigger degree of polynomial the higher accuracy you'll get, when the degree is infinity the Taylor's polynomial is equal to function. Then enter the point on x-axis around which the function will be approximated.
